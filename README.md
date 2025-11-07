@@ -2,8 +2,6 @@
 
 Repositório com a documentação e os artefatos da análise do desafio **WewMan**. O objetivo foi entender o fluxo do binário, reconstruir as funções relevantes (XOR, operações de bytes) e reproduzir o algoritmo de validação do serial.
 
-> Documentação base: `Documentação WewMan.pdf`. :contentReference[oaicite:0]{index=0}
-
 ---
 
 ## 📘 Descrição do Projeto
@@ -63,27 +61,7 @@ O desafio **WewMan** é um crackme que exige análise combinada (estática com I
 
 ---
 
-## 📁 Estrutura sugerida do repositório
-
-```
-/
-├─ docs/                # Documentação (Documentação WewMan.pdf)
-├─ analysis/            # Notas, screenshots do IDA, logs do debugger
-├─ src/                 # Código de reprodução / scripts de teste
-├─ README.md            # Este arquivo
-└─ LICENSE
-```
-
----
-
-## ⚠️ Avisos legais e éticos
-
-- Este material destina-se a fins **educacionais** e de estudo de engenharia reversa.
-- Não utilize técnicas de engenharia reversa para infringir direitos autorais ou violar sistemas sem autorização. Sempre obtenha permissão do proprietário do software.
-
----
-
 ## 🤝 Créditos / Agradecimentos
 
-- **Daniel Zanata** — autor das anotações e repositório (GitHub: `Dani2116`).
+- **Daniel Zanata** — autor das anotações e repositório (GitHub: `DevDanielZanata`).
 - **Cestaro0** — instrução, mentoria e apoio durante o desafio; forneceu o crackme que serviu de base para esta análise. Agradecimento especial pela orientação técnica.
